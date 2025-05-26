@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rnagavallika" target="blank"><img src="https://img.shields.io/twitter/follow/rnagavallika?logo=twitter&style=for-the-badge" alt="rnagavallika" /></a> </p>
 
-- 🌱 I’m currently learning **diving deep into SQL, MS Server SQL, Sqlite3, Python, Excel, Tableau, and Power BI for Data Analysis**
+- 🌱 I’m currently learning **diving deep into  MS Server SQL,  Python, DSA, Excel and Power BI , ML & DL , Statistics  for Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagavallikareethu](https://github.com/nagavallikareethu)
 
