@@ -26,6 +26,13 @@
 # 💻 Tech Stack:
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> AZURE </a> 
 <p align="left"> <a href="https://python.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> python </a> 
+<p align="left"> <a href="https://powerBi.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/powerBi/powerBi-icon.svg" alt="powerBi" width="40" height="40"/> powerBi </a> 
+<p align="left"> <a href="https://My Server Sql.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/My Server Sql/My Server Sql-icon.svg" alt="My Server Sql" width="40" height="40"/>My Server Sql </a> 
+<p align="left"> <a href="https://pandas.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="pandas" width="40" height="40"/> pandas </a> 
+<p align="left"> <a href="https://numpy.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> numpy </a> 
+<p align="left"> <a href="https://Matplotlib.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/Matplotlib/Matplotlib-icon.svg" alt="Matplotlib" width="40" height="40"/>Matplotlib </a> 
+<p align="left"> <a href="https://seaborn.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="seaborn" width="40" height="40"/> seaborn</a> 
+
 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagavallikareethu&show_icons=true&locale=en&layout=compact" alt="nagavallikareethu" /></p>
