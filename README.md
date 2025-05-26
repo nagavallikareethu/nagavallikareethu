@@ -18,13 +18,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1_G75k11bX5s5s50Qd_S4qRHt3alxNcC8](https://drive.google.com/drive/folders/1_G75k11bX5s5s50Qd_S4qRHt3alxNcC8)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/reethunagavallika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reethunagavallika/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> AZURE </a> 
+<p align="left"> <a href="https://python.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> python </a> 
+
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagavallikareethu&show_icons=true&locale=en&layout=compact" alt="nagavallikareethu" /></p>
 
