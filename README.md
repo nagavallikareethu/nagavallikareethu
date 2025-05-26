@@ -37,4 +37,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nagavallikareethu&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://github-profile-trophy.vercel.app/?username=nagavallikareethu&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nagavallikareethu&limit=5&theme=default&combine_all_yearly_contributions=true)
