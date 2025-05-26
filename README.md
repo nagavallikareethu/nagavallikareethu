@@ -28,10 +28,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagavallikareethu&show_icons=true&locale=en&layout=compact" alt="nagavallikareethu" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagavallikareethu&show_icons=true&locale=en" alt="nagavallikareethu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagavallikareethu&" alt="nagavallikareethu" /></p>
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nagavallikareethu&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+
 ![](https://github-profile-trophy.vercel.app/?username=nagavallikareethu&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
